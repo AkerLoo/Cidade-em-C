@@ -1,1 +1,1 @@
-Olá esse Projeto foi desenvolvido, com o intuilto de mostrar meus conhecimentos referente a logica de programação, e a experiencia com a linguagem C, no codigo há o uso de media matematica, fazendo uma media de quantos acidentes de transito ocorreram em duas cidades diferentes, mostrando támbem o uso de diferentes variaveis e a organização do codigo em geral, espero que gostem!! 😍
+Olá esse Projeto foi desenvolvido, com o intuilto de mostrar meus conhecimentos referente a logica de programação, e a experiencia com a linguagem C.
